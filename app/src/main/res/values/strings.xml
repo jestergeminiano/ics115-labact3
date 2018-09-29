@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">labact3</string>
+    <string name="title">SM North</string>
+    <string name="location">Location: EDSA corner North Avenue</string>
+    <string name="description">SM North</string>
+    <string name="distance_from_ust">Distance from UST: 7.8 km</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+</resources>
